@@ -54,8 +54,6 @@ week,player_uid,brand_name,player_registered_at,deal_name,commission_base,cpa_co
 2025-02-24,Antton18,bitcasino.io,2025-02-24 21:49:37Z,Bitcasino Default Deal,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
 2025-02-24,SLITINE,bitcasino.io,2025-02-27 19:28:36Z,Bitcasino Default Deal,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
 2025-02-24,notkevinspacey1,bitcasino.io,2025-02-28 10:27:08Z,Bitcasino Default Deal,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
-2025-02-24,medooo77,bitcasino.io,2025-03-01 11:06:19Z,Bitcasino Default Deal,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
-2025-03-03,medooo77,bitcasino.io,2025-03-01 11:06:19Z,Bitcasino Default Deal,5.36,0.00,5.36,21.44,31.80,5.00,1.00,26.86,0.00,0.00
 2025-03-17,smoolito,bitcasino.io,2025-03-20 01:36:33Z,Bitcasino Default Deal,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
 2025-03-17,montassir02,bitcasino.io,2025-03-20 07:03:38Z,Bitcasino Default Deal,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
 2025-04-07,DOCTOR77,bitcasino.io,2025-04-08 23:51:29Z,Bitcasino Default Deal,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
